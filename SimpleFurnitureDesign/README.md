@@ -7,3 +7,4 @@
 
 ## 結果
 
+![](https://github.com/dany1468/my-blender-learned/blob/main/SimpleFurnitureDesign/render_result.png?raw=true)
